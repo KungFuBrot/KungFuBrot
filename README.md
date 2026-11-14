@@ -15,3 +15,4 @@ Softwareentwicklung mit C# / .NET, Schwerpunkt **KI-Agenten** und **Physical AI*
 |---|---|
 | [RpgGodot](https://github.com/KungFuBrot/RpgGodot) | Mini-JRPG in Godot, alle Grafiken und Sounds prozedural erzeugt. [Im Browser spielen](https://kungfubrot.github.io/RpgGodot/) |
 | [HomeSweetHome](https://github.com/KungFuBrot/HomeSweetHome) | Hauskauf-Planer als einzelne HTML-Seite, Daten bleiben im Browser. [Öffnen](https://kungfubrot.github.io/HomeSweetHome/) |
+| [SolarSystem](https://github.com/KungFuBrot/SolarSystem) | Interaktives Sonnensystem für Kinder: zoomen, Planeten anklicken, eine Rakete fliegt hin. [Öffnen](https://kungfubrot.github.io/SolarSystem/) |
